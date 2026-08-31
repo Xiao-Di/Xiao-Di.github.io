@@ -1,0 +1,62 @@
+type = "about"
+title = "简介"
+
+[profile]
+research_interests = [
+  "空天地一体化网络",
+  "卫星通信",
+  "天基计算",
+  "星座管理"
+]
+
+[labels]
+research_interests = "研究方向"
+
+[[experience]]
+period = "2025.09 — 至今"
+organization = "北京邮电大学"
+role = "泛网无线通信教育部重点实验室 · 工程博士"
+
+[[experience]]
+period = "2025.07 — 至今"
+organization = "上海卫星互联网研究院有限公司"
+role = "卫星互联网全国重点实验室 · 工程师"
+
+[[experience]]
+period = "2023.07 — 2025.07"
+organization = "中国星网网络创新研究院有限公司"
+role = "未来新兴技术研究中心 · 助理工程师"
+
+[[experience]]
+period = "2022.07 — 2022.12"
+organization = "北京嘀嘀无限科技发展有限公司"
+role = "网约车平台公司-MPT · 实习生"
+
+[[experience]]
+period = "2020.09 — 2023.06"
+organization = "北京邮电大学"
+role = "泛网无线通信教育部重点实验室 · 硕士"
+
+[[experience]]
+period = "2016.09 — 2020.06"
+organization = "北京邮电大学"
+role = "信息与通信工程学院（通信工程） · 本科"
+
+[[sections]]
+id = "about"
+type = "markdown"
+source = "bio.md"
+title = "简介"
+
+[[sections]]
+id = "featured_publications"
+type = "publications"
+title = "精选论文"
+filter = "selected"
+limit = 5
+
+[[sections]]
+id = "news"
+type = "list"
+title = "近期动态"
+source = "news.toml"

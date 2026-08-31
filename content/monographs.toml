@@ -1,0 +1,62 @@
+type = "card"
+title = "Monographs & CSC"
+description = "Published monographs and registered computer software copyrights."
+
+[[sections]]
+title = "Monographs"
+description = "Published books and monographs."
+
+# Add monographs with [[sections.items]], for example:
+[[sections.items]]
+title = "Understanding Python"
+subtitle = "Beijing University of Posts and Telecommunications Press"
+date = "2024"
+content = "[Lu Hou, Lingyi Han, **Yunxin Geng**, Xiong Xiong](https://item.jd.com/14742212.html?pcdk=pF1oTppfkYvqhInhtwJ1uv_p1k4HejKl9724vWlUCO-3FMv85lbpk94wJOyz8F2Q.3z6a.aI3x&spmTag=YTAyMTkuYjAwMjM1Ni5jMDAwMDcyMTAua2V5d29yZF9lbnRlciU0MDE3ODcwNjQ2NjcyOTclMjMxNzg3MDY0NjYxMjc2MTUwODc0NDMwNyUyMzE2NDM4NTcwNjYlMkNhMDI0MC5iMDAyNDkzLmMwMDAwNDAyNy4yJTIzc2t1X2NhcmQlNDAxNzg3MDY0NzAwODc4JTIzMTc4NzA2NDY2MTI3NjE1MDg3NDQzMDclMjMxNDAwMjg1NjM5)"
+tags = ["ISBN: 9787563572830"]
+
+[[sections]]
+title = "CSC"
+description = "Registered computer software copyrights."
+
+# Add software copyrights with [[sections.items]], for example:
+[[sections.items]]
+title = "Satellite‑Terrestrial Collaborative Edge‑Cloud Service Platform Software V1.0"
+subtitle = "Registration Number: 2026SR0185392"
+date = "2026"
+# content = "开发者与软件简介。"
+tags = ["Shanghai Satellite Network Research Institute Co., Ltd."]
+
+[[sections.items]]
+title = "Tiered Image Registry Software V1.0"
+subtitle = "Registration Number: "
+date = "2025"
+# content = "开发者与软件简介。"
+tags = ["Shanghai Satellite Network Research Institute Co., Ltd.", "The 10th Research Institute of China Electronics Technology Group Corporation"]
+
+[[sections.items]]
+title = "Aerospace‑Oriented Cloud‑Native Pipeline Software V1.0"
+subtitle = "Registration Number: "
+date = "2025"
+# content = "开发者与软件简介。"
+tags = ["Shanghai Satellite Network Research Institute Co., Ltd.", "The 10th Research Institute of China Electronics Technology Group Corporation"]
+
+[[sections.items]]
+title = "FPGA Resource‑Aware and Virtualization Management Software Based on Space‑Based Edge Cloud V1.0"
+subtitle = "Registration Number: "
+date = "2025"
+# content = "开发者与软件简介。"
+tags = ["Shanghai Satellite Network Research Institute Co., Ltd.", "The 10th Research Institute of China Electronics Technology Group Corporation"]
+
+[[sections.items]]
+title = "Cloud‑Network Converged Multi‑Cloud Cooperative Management Operation and Maintenance Software V1.0"
+subtitle = "Registration Number: "
+date = "2025"
+# content = "开发者与软件简介。"
+tags = ["Shanghai Satellite Network Research Institute Co., Ltd.", "The 10th Research Institute of China Electronics Technology Group Corporation"]
+
+[[sections.items]]
+title = "LoRa Terminal Simulation Program V1.1.0"
+subtitle = "Registration Number: 2022SR0452571"
+date = "2022"
+# content = "开发者与软件简介。"
+tags = ["Beijing University of Posts and Telecommunications"]

@@ -1,0 +1,62 @@
+type = "about"
+title = "About"
+
+[profile]
+research_interests = [
+  "Space-Air-Ground Integrated Network",
+  "Satellite Communication",
+  "Space-based Computing",
+  "Constellation Management"
+  ]
+
+[labels]
+research_interests = "Research Interests"
+
+[[experience]]
+period = "2025.09 — Present"
+organization = "Beijing University of Posts and Telecommunications"
+role = "D.Eng"
+
+[[experience]]
+period = "2025.07 — Present"
+organization = "Shanghai Satellite Network Research Institute Co., Ltd."
+role = "Engineer"
+
+[[experience]]
+period = "2023.07 — 2025.07"
+organization = "China Satellite Network Innovation Research Institute Co., Ltd."
+role = "Assoc. Engineer"
+
+[[experience]]
+period = "2022.07 — 2022.12"
+organization = "Didichuxing Co. Ltd"
+role = "Intern, MPT"
+
+[[experience]]
+period = "2020.09 — 2023.06"
+organization = "Beijing University of Posts and Telecommunications"
+role = "M.Eng"
+
+[[experience]]
+period = "2016.09 — 2020.06"
+organization = "Beijing University of Posts and Telecommunications"
+role = "B.Eng"
+
+[[sections]]
+id = "about"
+type = "markdown"
+source = "bio.md"
+title = "About"
+
+[[sections]]
+id = "featured_publications"
+type = "publications"
+title = "Selected Publications"
+filter = "selected"
+limit = 5
+
+[[sections]]
+id = "news"
+type = "list"
+title = "News"
+source = "news.toml"

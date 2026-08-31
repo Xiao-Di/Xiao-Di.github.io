@@ -1,0 +1,80 @@
+type = "card"
+title = "Projects"
+description = "Research projects and grants in which I have participated."
+
+[[items]]
+title = "Frontier Satellite Internet"
+subtitle = "Ministry of Science and Technology, Key Project under the National Key R&D Program"
+date = "Under evaluation"
+content = "Focusing on frontier development and China's satellite Internet construction goals, this project seeks breakthroughs in core technologies including [Redacted], develops prototype networks and key payload prototypes, and conducts in-orbit verification, application demonstrations, and technical standardization. It aims to establish the technical and standards systems required for next-generation system construction and to develop Xiong'an into an innovation hub for the aerospace information industry."
+tags = ["[Redacted] W"]
+
+[[items]]
+title = "Exploratory Research on Foundational Intelligent Support Technologies for Satellite Internet Spacecraft and Networks"
+subtitle = "Xiong'an New Area Special Program for Collaborative Innovation Supporting the Relocation of Beijing's Non-Capital Functions"
+date = "2025.12—2028.10"
+content = "Research on end–network agent collaborative intelligent networking for 6G satellite–ground integration, intelligent-computing payload architectures and autonomous satellite operation models, and satellite-Internet-native intelligent systems and representative applications."
+tags = ["5000W"]
+
+[[items]]
+title = "Research on Intelligent Testing Technologies"
+subtitle = "Satellite Internet System Construction Program, China Satellite Network Group"
+date = "2025.06—2026.09"
+content = "Research on intelligent generation of test cases and scripts, intelligent test-task planning, intelligent testing expert systems, anomaly detection and fault analysis, intelligent evaluation and analysis of test results, construction of system- and terminal-testing datasets, and large models for satellite Internet testing."
+tags = ["6000W"]
+
+[[items]]
+title = "Research on Key Semantic Communication Technologies for 6G Integrated Space–Air–Ground Coverage"
+subtitle = "Beijing Natural Science Foundation–Beijing University of Posts and Telecommunications"
+date = "2024.10—2027.09"
+content = "Research on efficient semantic-information testing and reliable semantic-information recovery for 6G integrated space–air–ground coverage, coverage extension based on semantic communications, and development of an experimental verification system for semantic communications in integrated coverage scenarios."
+tags = ["20W"]
+
+# [[items]]
+# title = "Research on Network Connectivity Technologies for Complex Heterogeneous Mega-Constellations with Space-Based Network Cooperative Sensing"
+# subtitle = "National Natural Science Foundation of China Young Scientists Fund"
+# date = "2024—"
+# content = ""
+# tags = ["[Redacted] W", "During Doctoral Study"]
+
+[[items]]
+title = "Prototype Verification System for Satellite Internet Cloud–Network Convergence Integrating [Redacted]"
+subtitle = "CYL Project of the National Development and Reform Commission"
+date = "2023.12—2025.12"
+content = "Research on satellite Internet integrating communications, navigation, sensing, and intelligence; establishment of an integrated satellite Internet architecture; and breakthroughs in key technologies including highly dynamic spatiotemporal resource representation, multidimensional resource trend prediction, multidimensional time-varying resource allocation, and multidimensional intelligent resource planning. The project aims to enhance satellite Internet service capabilities, support integrated satellite–ground network construction, and advance functional convergence."
+tags = ["11000W"]
+
+[[items]]
+title = "Research on Key Cloud–Network Convergence Technologies for Satellite Internet Constellations"
+subtitle = "Beijing Natural Science Foundation–Beijing University of Posts and Telecommunications"
+date = "2023.11—2026.12"
+content = "Research on heterogeneous multi-layer cloud–network convergence architectures for satellite constellations, virtualization and intelligent awareness of satellite networking and computing resources, and constellation cloud–edge intelligent collaboration with differentiated QoS guarantees."
+tags = ["20W"]
+
+[[items]]
+title = "Satellite–Ground Collaborative Access and Transmission Technologies under Highly Dynamic Conditions"
+subtitle = "National Key R&D Program, Ministry of Science and Technology"
+date = "2023.07—2025.10"
+content = "Systematic research spanning scenarios, architectures, key technologies, and verification to develop a satellite–ground collaborative access and transmission solution. The project targets a flexible and elastic collaborative architecture, efficient cross-domain resource scheduling, agile access and handover, and highly efficient transmission."
+tags = ["3534W"]
+
+[[items]]
+title = "Research on Intelligent Health Management Technologies for Satellite Constellations"
+subtitle = "Key Bottleneck Project, China Satellite Network Group"
+date = "2023.07—2024.03"
+content = "Research on rapid and accurate intelligent diagnosis of abrupt faults, prediction of gradual faults and remaining service life, health assessment of representative satellite systems, and health assessment of satellite-constellation physical topology."
+tags = ["442W"]
+
+# [[items]]
+# title = "Research on Real-Time Reliable Wireless Transmission Mechanisms for Integrated Control and Communications"
+# subtitle = "National Natural Science Foundation of China Young Scientists Fund"
+# date = "2021.01—2023.06"
+# content = "Focusing on real-time performance and reliability, this project studies foundational analysis and optimization theories for integrated control and communications; joint sensing, control, and communication optimization for IoT control systems; and practical performance-optimization algorithms that account for non-ideal factors."
+# tags = ["24W", "During Master's Study"]
+
+# [[items]]
+# title = "Theory of Complex Mobile-Environment Sensing and Modeling for the Internet of Vehicles"
+# subtitle = "Key Program of the National Natural Science Foundation of China"
+# date = "2020.09—2023.12"
+# content = "This project investigates efficient sensing of complex mobile environments, microscopic and macroscopic modeling of mobility behavior, and vehicular-network topology and performance optimization, laying a foundation for reliable transmission, resource scheduling, and mobility optimization in 5G-oriented vehicular networks."
+# tags = ["290W", "During Master's Study"]

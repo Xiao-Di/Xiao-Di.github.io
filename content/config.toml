@@ -1,0 +1,95 @@
+[site]
+title = "Yunxin geng"
+description = "Engineer at Shanghai Satellite Network Research Institute Company Ltd. (State Key Laboratory of Satellite Network), also an PhD student at Beijing University of Posts and Telecommunications."
+favicon = "/favicon.svg"
+last_updated = "August 17, 2026"
+
+[author]
+name = "Yunxin Geng"
+title = "Engineer / D.Eng Student"
+institution = [
+  "State Key Laboratory of Satellite Network",
+  "Shanghai Satellite Network Research Institute Company Ltd.",
+  "Beijing University of Posts and Telecommunications"
+]
+avatar = "/bio.jpg"
+
+[social]
+# Contact information (leave blank or delete to hide)
+
+email = "gengyx@bupt.edu.cn"
+location = "Beijing, China"
+location_url = "https://maps.google.com"
+location_details = [
+  "No.10, Xitucheng Street, Haidian District,",
+  "Beijing University of Posts and Telecommunications, Beijing, China"
+]
+google_scholar = "https://scholar.google.com/citations?user=9G78VAcAAAAJ&hl=zh-CN"
+orcid = "https://orcid.org/my-orcid?orcid=0009-0002-0901-6167"
+github = "https://github.com/Xiao-Di"
+
+[features]
+# Show a like button on the about page
+enable_likes = true
+
+# Display all subpages on a single page
+enable_one_page_mode = false
+
+[i18n]
+enabled = true
+locales = ["zh", "en"]
+default_locale = "en"
+# "auto" means the locale will be determined by the browser's language setting, "fixed" means the locale will be fixed to the default locale (but can be switched still, if you want to disable, set "enable=false")
+mode = "auto"
+fixed_locale = "en"
+# If true, PRISM will remember user's language preference in browser's localStorage
+persist = true
+# Show a language switcher on the top right corner
+switcher = true
+
+[i18n.labels]
+zh = "中文"
+en = "English"
+
+[[navigation]]
+title = "About"
+type = "page"
+target = "about"
+href = "/"
+
+[[navigation]]
+title = "Publications"
+type = "page"
+target = "publications"
+href = "/publications"
+
+[[navigation]]
+title = "Patents"
+type = "page"
+target = "patents"
+href = "/patents"
+
+[[navigation]]
+title = "Monographs & CSC"
+type = "page"
+target = "monographs"
+href = "/monographs"
+
+[[navigation]]
+title = "Awards"
+type = "page"
+target = "awards"
+href = "/awards"
+
+[[navigation]]
+title = "Projects"
+type = "page"
+target = "projects"
+href = "/projects"
+
+
+# [[navigation]]
+# title = "CV"
+# type = "page"
+# target = "cv"
+# href = "/cv"

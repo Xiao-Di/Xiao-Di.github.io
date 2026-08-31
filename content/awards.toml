@@ -1,0 +1,38 @@
+type = "card"
+title = "Awards"
+description = "Honors and awards I have received."
+
+[[items]]
+title = "Second Prize, 2026 Xiong'an Aerospace Information Innovation Technology Competition"
+subtitle = "Organizing Committee of the Xiong'an Future City Scenario Expo (organized by the Hebei Provincial Development and Reform Commission)"
+date = "2026.07"
+content = "**Integrated Satellite Internet and Intelligent Computing Technology** — In response to the new industry landscape and emerging development challenges, this project follows the trend toward in-orbit intelligence for satellite Internet. To support the iterative development and validation of satellite, network, and application intelligence, it establishes a ground-based parallel verification environment and an open validation platform, and develops standardized, reusable satellite intelligent-computing payloads. The project builds full-chain capabilities spanning ground training, model deployment to space, space-based inference, in-orbit updates, and satellite–ground collaboration. It enables unified management and coordinated scheduling of core AI resources such as satellite–ground computing power, models, and data, supports the transition from connectivity to intelligent services, and provides core support for the integrated innovation of Xiong'an's digital economy and aerospace information industry."
+tags = ["Provincial/Ministerial Level"]
+
+[[items]]
+title = "Third Prize, 'Star Innovation Cup' Youth Innovation and Efficiency Competition"
+subtitle = "China Satellite Network Group Co., Ltd."
+date = "2026.06"
+content = "**Research on Satellite–Ground Integrated Distributed Computing–Network Collaboration** — Addressing the growing demand for iterative validation of satellite, network, and application intelligence and for satellite–ground collaborative computing, this project designs an integrated space–ground computing-power network architecture to accelerate the convergence of satellite Internet and AI. It enables unified management and coordinated scheduling of computing, network, model, and data resources across space and ground, supporting the transition from connectivity to intelligent services."
+tags = ["Group Level"]
+
+[[items]]
+title = "Third Prize, 'Innovation for Efficiency · Digital Intelligence Solutions' Competition"
+subtitle = "China Satellite Network Group Co., Ltd."
+date = "2025.09"
+content = "**AI-Driven Next-Generation Space Traffic Management Solution** — This project develops a new space traffic management system featuring satellite–ground collaborative sensing, intelligent data processing, and autonomous satellite collision avoidance. AI is used to upgrade the entire sensing–computing–decision-making process of space traffic management."
+tags = ["Group Level"]
+
+[[items]]
+title = "First Prize, 'Qihang Cup' Innovation and Creativity Competition"
+subtitle = "China Satellite Network Innovation Research Institute Co., Ltd."
+date = "2024.12"
+content = "**Design and Implementation of an Intelligent Orbit-Prediction Algorithm for 500-km-Class Satellites** — The accuracy and efficiency of space-object orbit prediction are essential to the construction and operation of satellite Internet. Targeting the orbit-prediction requirements of the second-generation China SatNet system, this project develops intelligent orbit-prediction technologies for satellites in approximately 500-km orbits."
+tags = ["Company Level"]
+
+[[items]]
+title = "Finalist Award, 'Qihang Cup' Innovation and Creativity Competition"
+subtitle = "China Satellite Network Innovation Research Institute Co., Ltd."
+date = "2024.12"
+content = "**Research on an Instant Satellite Remote-Sensing System Architecture Based on Integrated Communications and Remote Sensing** — To address the difficulty of acquiring massive remote-sensing datasets in real time using conventional satellite systems, this project integrates communications and remote sensing with communication and computing capabilities to enable on-demand, near-instant remote-sensing services."
+tags = ["Company Level"]

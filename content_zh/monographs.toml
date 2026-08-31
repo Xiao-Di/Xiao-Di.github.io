@@ -1,0 +1,62 @@
+type = "card"
+title = "著作 & 软件"
+description = "已出版的著作与已登记的计算机软件著作权。"
+
+[[sections]]
+title = "著作"
+description = "已出版的书籍。"
+
+# 使用 [[sections.items]] 添加著作，例如：
+[[sections.items]]
+title = "理解Python"
+subtitle = "北京邮电大学出版社"
+date = "2024"
+content = "侯璐, 韩灵怡, **耿运鑫**, 熊雄"
+tags = ["ISBN: 9787563572830"]
+
+[[sections]]
+title = "软件"
+description = "已登记的计算机软件著作权。"
+
+# 使用 [[sections.items]] 添加软件著作权，例如：
+[[sections.items]]
+title = "星地协同边缘云服务平台软件V1.0"
+subtitle = "登记号: 2026SR0185392"
+date = "2026"
+# content = "开发者与软件简介。"
+tags = ["上海卫星互联网研究院有限公司"]
+
+[[sections.items]]
+title = "多级镜像仓库软件V1.0"
+subtitle = "登记号: "
+date = "2025"
+# content = "开发者与软件简介。"
+tags = ["上海卫星互联网研究院有限公司", "中国电子科技集团第十研究所"]
+
+[[sections.items]]
+title = "航天云原生流水线软件V1.0"
+subtitle = "登记号: "
+date = "2025"
+# content = "开发者与软件简介。"
+tags = ["上海卫星互联网研究院有限公司", "中国电子科技集团第十研究所"]
+
+[[sections.items]]
+title = "基于天基边缘云的FPGA资源感知和虚拟化管理软件V1.0"
+subtitle = "登记号: "
+date = "2025"
+# content = "开发者与软件简介。"
+tags = ["上海卫星互联网研究院有限公司", "中国电子科技集团第十研究所"]
+
+[[sections.items]]
+title = "云网融合多云协管运行维护软件V1.0"
+subtitle = "登记号: "
+date = "2025"
+# content = "开发者与软件简介。"
+tags = ["上海卫星互联网研究院有限公司", "中国电子科技集团第十研究所"]
+
+[[sections.items]]
+title = "LoRa终端模拟程序V1.1.0"
+subtitle = "登记号: 2022SR0452571"
+date = "2022"
+# content = "开发者与软件简介。"
+tags = ["北京邮电大学"]

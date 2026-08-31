@@ -1,0 +1,125 @@
+type = "card"
+title = "Patents"
+description = "Invention patents I have granted and host."
+
+# 受理
+[[items]]
+title = "Data Processing Method and Apparatus, Storage Medium and Electronic Device"
+subtitle = "CN202611313204X"
+date = "2026.08.26"
+content = "**Yunxin Geng**, Bowen Li, Shengfeng Wang, Minghao Lu, Yun Zhao, Zijian Guo, Luhao Ma"
+tags = ["Shanghai Satellite Network Research Institute Company Ltd.", "Accepted"]
+
+[[items]]
+title = "Training Data Determination Method and Apparatus, Storage Medium and Electronic Device"
+subtitle = "CN2026113131047"
+date = "2026.08.26"
+content = "**Yunxin Geng**, Bowen Li, Shengfeng Wang, Minghao Lu, Qi He, Xin Xiang, Luhao Ma"
+tags = ["Shanghai Satellite Network Research Institute Company Ltd.", "Accepted"]
+
+[[items]]
+title = "Method and apparatus for predicting channel state of satellite‑ground downlink"
+subtitle = "CN2026111347526"
+date = "2026.07.29"
+content = "Zhiyong Feng, Weiwei Jiang, **Yunxin Geng**, Zhiqing Wei, Haotian Liu, Ziteng Wang"
+tags = ["Beijing University of Posts and TeleCommunications", "Accepted"]
+
+[[items]]
+title = "Method and apparatus for fast adaptation of satellite‑ground link prediction model across geographical environments"
+subtitle = "CN2026111351038"
+date = "2026.07.29"
+content = "Weiwei Jiang, Zhiyong Feng, **Yunxin Geng**, Zhiqing Wei, Ziteng Wang, Haotian Liu"
+tags = ["Beijing University of Posts and TeleCommunications", "Accepted"]
+
+[[items]]
+title = "Information acquisition method, access device, communication system, and storage medium"
+subtitle = "CN2025113583054"
+date = "2025.09.22"
+content = "Shuchen Li, Junshuai Sun, Xiaokun Fan, Qi He, **Yunxin Geng**"
+tags = ["Shanghai Satellite Network Research Institute Company Ltd.", "Accepted"]
+
+[[items]]
+title = "Communication method, system, management node, and service demand node"
+subtitle = "CN2025111581016"
+date = "2025.08.18"
+content = "Shuchen Li, Junshuai Sun, Qi He, **Yunxin Geng**, Xiaokun Fan, Yu Liu"
+tags = ["Shanghai Satellite Network Research Institute Company Ltd.", "Accepted"]
+
+[[items]]
+title = "Training method and apparatus for orbit‑prediction model, storage medium, and electronic device"
+subtitle = "CN2025105843172"
+date = "2025.05.06"
+content = "Qi He, Shuchen Li, **Yunxin Geng**, Xiaokun Fan, Yan Liu, Junshuai Sun"
+tags = ["Shanghai Satellite Network Research Institute Company Ltd.", "Accepted"]
+
+[[items]]
+title = "Intelligent orbit prediction method and apparatus for space target"
+subtitle = "CN2025103079403"
+date = "2025.03.14"
+content = "**Yunxin Geng**, Shuchen Li, Qi He, Yan Liu, Junshuai Sun"
+tags = ["China Satellite Network Innovation Research Institute Co., Ltd.", "Accepted"]
+
+# 公开
+[[items]]
+title = "Layered blockchain system and data processing method applied to the layered blockchain system"
+subtitle = "CN116266836A"
+date = "2023.06.20"
+content = "[Lu Hou, Zhiming Liu, Yankai Li, **Yunxin Geng**, Mengting Liu](https://cprs.patentstar.com.cn/Search/Detail?ANE=7FAA9IFE9HDD5DBA9GCA9DID9ECC9CIG9ICC9FFD9DIF9HGG)"
+tags = ["Huawei Technologies Co., Ltd.", "Published"]
+
+[[items]]
+title = "Method and apparatus for constellation performance evaluation, electronic device, and storage medium"
+subtitle = "CN122475742A"
+date = "2026.07.28"
+content = "[**Yunxin Geng**, Yan Liu, Bendian Nie, Yibo Ma, Qi He, Feng Sun](https://cprs.patentstar.com.cn/Search/Detail?ANE=7CDA9IBA9GCB9DIH5CCA9EHC9EIE9GFE9AIG9BCDBGHA9GHE)"
+tags = ["China Satellite Network Innovation Research Institute Co., Ltd.", "Published"]
+
+[[items]]
+title = "Method for predicting orbit information of space target and electronic device"
+subtitle = "CN122221628A"
+date = "2026.06.16"
+content = "[Xiaokun Fan, Shuchen Li, Qi He, **Yunxin Geng**, Yan Liu, Junshuai Sun](https://cprs.patentstar.com.cn/Search/Detail?ANE=7CDA9IBA9GCB9DIH5CCA9EHC9EIE9GFE9AIG9BCDBGHA9GHE)"
+tags = ["Shanghai Satellite Network Research Institute Company Ltd.", "Published"]
+
+[[items]]
+title = "Method and apparatus for orbit prediction of space target, electronic device, and storage medium"
+subtitle = "CN122154374A"
+date = "2026.06.05"
+content = "[Qi He, Shuchen Li, **Yunxin Geng**, Yan Liu, Junshuai Sun](https://cprs.patentstar.com.cn/Search/Detail?ANE=8GAA9CHA9GFE9EFE5CCA8DEA9BHGFHHA9HBA9GBF9DAD9AID)"
+tags = ["Shanghai Satellite Network Research Institute Company Ltd.", "Published"]
+
+[[items]]
+title = "Satellite anomaly detection method, device, storage medium, and program product"
+subtitle = "CN122132396A"
+date = "2026.06.02"
+content = "[Qi He, Shuchen Li, **Yunxin Geng**, Yan Liu, Junshuai Sun](https://cprs.patentstar.com.cn/Search/Detail?ANE=9IGH7DEA9GED9GEF8AHA8CFA9CGG9EHHDIGA9BHH9BIF9FBG)"
+tags = ["Shanghai Satellite Network Research Institute Company Ltd.", "Published"]
+
+[[items]]
+title = "Detection model training method, detection method, and device"
+subtitle = "CN122112742A"
+date = "2026.05.29"
+content = "[**Yunxin Geng**, Shuchen Li, Qi He, Yan Liu, Junshuai Sun](https://cprs.patentstar.com.cn/Search/Detail?ANE=7FAA9GHE9FGEAHGA9HGF3CAACIEA9GAABFEA5AAADGFACIFA)"
+tags = ["Shanghai Satellite Network Research Institute Company Ltd.", "Published"]
+
+# 授权
+[[items]]
+title = "Method and apparatus for determining measurement result, and transmitting method and apparatus"
+subtitle = "CN120812677B"
+date = "2025.11.28"
+content = "[Xiaokun Fan, Shuchen Li, Junshuai Sun, Yu Liu, Qi He, **Yunxin Geng**](https://cprs.patentstar.com.cn/Search/Detail?ANE=8AGA5CDA7EBADIHA3ACA9HGFCIIA3ADA9CEB8BEA9DGH9DBE)"
+tags = ["Shanghai Satellite Network Research Institute Company Ltd.", "Granted"]
+
+[[items]]
+title = "Method and apparatus for processing model data, storage medium, and electronic device"
+subtitle = "CN120785779B"
+date = "2026.05.12"
+content = "[Xiaokun Fan, Shuchen Li, Yan Liu, Junshuai Sun, Qi He, **Yunxin Geng**](https://cprs.patentstar.com.cn/Search/Detail?ANE=9FEC4BDA6CCA9EFF9IHH5BDA7FAA7CAA9HEG9CHC9GBFGIIA)"
+tags = ["China Satellite Network Innovation Research Institute Co., Ltd.", "Granted"]
+
+[[items]]
+title = "Vehicle flow data processing method based on data word segmentation"
+subtitle = "CN114970519B"
+date = "2025.03.25"
+content = "[Lu Hou, **Yunxin Geng**, Lingyi Han, Haojun Yang](https://cprs.patentstar.com.cn/Search/Detail?ANE=9CFA9HHF9DGC9GHG9EHD7CFA9GED9AFC9DAB9IBH9AHH9FDG)"
+tags = ["Beijing University of Posts and Telecommunications", "Granted"]

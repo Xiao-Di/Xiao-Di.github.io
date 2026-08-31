@@ -1,0 +1,63 @@
+[site]
+title = "耿运鑫"
+description = "上海卫星互联网研究院有限公司工程师与北京邮电大学博士生个人主页。"
+last_updated = "2026年8月17日"
+
+[author]
+name = "耿运鑫"
+title = "工程师 / 博士生"
+institution = [
+  "上海卫星互联网研究院有限公司",
+  "卫星互联网全国重点实验室",
+  "中国星网雄安智能技术研究中心",
+  "北京邮电大学"
+]
+
+[social]
+location = "北京，中国"
+location_details = [
+  "新科研楼738，",
+  "西土城路10号，北京，中国"
+]
+
+[[navigation]]
+title = "主页"
+type = "page"
+target = "about"
+href = "/"
+
+[[navigation]]
+title = "论文"
+type = "page"
+target = "publications"
+href = "/publications"
+
+[[navigation]]
+title = "专利"
+type = "page"
+target = "patents"
+href = "/patents"
+
+[[navigation]]
+title = "著作 & 软件"
+type = "page"
+target = "monographs"
+href = "/monographs"
+
+[[navigation]]
+title = "奖项"
+type = "page"
+target = "awards"
+href = "/awards"
+
+[[navigation]]
+title = "项目"
+type = "page"
+target = "projects"
+href = "/projects"
+
+# [[navigation]]
+# title = "简历"
+# type = "page"
+# target = "cv"
+# href = "/cv"

@@ -1,0 +1,125 @@
+type = "card"
+title = "专利"
+description = "已授权/已公开/已受理的发明专利。"
+
+# 受理
+[[items]]
+title = "数据的处理方法和装置、存储介质及电子设备"
+subtitle = "CN202611313204X"
+date = "2025.09.22"
+content = "**耿运鑫**, 李博文, 王胜烽, 路明浩, 赵赟, 郭子健, 马路浩"
+tags = ["上海卫星互联网研究院有限公司", "已受理"]
+
+[[items]]
+title = "训练数据的确定方法和装置、存储介质及电子设备"
+subtitle = "CN2026113131047"
+date = "2025.09.22"
+content = "**耿运鑫**, 李博文, 王胜烽, 路明浩, 贺琦, 向欣, 马路浩"
+tags = ["上海卫星互联网研究院有限公司", "已受理"]
+
+[[items]]
+title = "星地下行链路信道状态的预测方法及装置"
+subtitle = "CN2026111347526"
+date = "2026.07.29"
+content = "冯志勇, 姜蔚蔚, **耿运鑫**, 尉志青, 刘浩田, 王子藤"
+tags = ["北京邮电大学", "已受理"]
+
+[[items]]
+title = "一种星地链路预测模型的跨地理环境快速适配方法及装置"
+subtitle = "CN2026111351038"
+date = "2026.07.29"
+content = "姜蔚蔚, 冯志勇, **耿运鑫**, 尉志青, 王子藤, 刘浩田"
+tags = ["北京邮电大学", "已受理"]
+
+[[items]]
+title = "信息获取方法、接入设备、通信系统和存储介质"
+subtitle = "CN2025113583054"
+date = "2025.09.22"
+content = "李舒辰, 孙军帅, 范晓坤, 贺琦, **耿运鑫**"
+tags = ["上海卫星互联网研究院有限公司", "已受理"]
+
+[[items]]
+title = "通信方法、系统、管理节点和业务需求节点"
+subtitle = "CN2025111581016"
+date = "2025.08.18"
+content = "李舒辰, 孙军帅, 贺琦, **耿运鑫**, 范晓坤, 刘钰"
+tags = ["上海卫星互联网研究院有限公司", "已受理"]
+
+[[items]]
+title = "轨道预测模型的训练方法、装置、存储介质及电子装置"
+subtitle = "CN2025105843172"
+date = "2025.05.06"
+content = "贺琦, 李舒辰, **耿运鑫**, 范晓坤, 刘言, 孙军帅"
+tags = ["上海卫星互联网研究院有限公司", "已受理"]
+
+[[items]]
+title = "一种空间目标智能轨道预报方法及装置"
+subtitle = "CN2025103079403"
+date = "2025.03.14"
+content = "**耿运鑫**, 李舒辰, 贺琦, 刘言, 孙军帅"
+tags = ["中国星网网络创新研究院有限公司", "已受理"]
+
+# 公开
+[[items]]
+title = "分层区块链系统和应用于所述分层区块链系统的数据处理方法"
+subtitle = "CN116266836A"
+date = "2023.06.20"
+content = "[侯璐, 刘智铭, 李彦锴, **耿运鑫**, 刘梦婷](https://cprs.patentstar.com.cn/Search/Detail?ANE=7FAA9IFE9HDD5DBA9GCA9DID9ECC9CIG9ICC9FFD9DIF9HGG)"
+tags = ["华为技术有限公司", "已公开"]
+
+[[items]]
+title = "星座性能评估方法、装置、电子设备和介质"
+subtitle = "CN122475742A"
+date = "2026.07.28"
+content = "[**耿运鑫**, 刘言, 聂本典, 马一博, 贺琦, 孙枫](https://cprs.patentstar.com.cn/Search/Detail?ANE=7CDA9IBA9GCB9DIH5CCA9EHC9EIE9GFE9AIG9BCDBGHA9GHE)"
+tags = ["中国星网网络创新研究院有限公司", "已公开"]
+
+[[items]]
+title = "空间目标的轨道信息预测方法及电子设备"
+subtitle = "CN122221628A"
+date = "2026.06.16"
+content = "[范晓坤, 李舒辰, 贺琦, **耿运鑫**, 刘言, 孙军帅](https://cprs.patentstar.com.cn/Search/Detail?ANE=7CDA9IBA9GCB9DIH5CCA9EHC9EIE9GFE9AIG9BCDBGHA9GHE)"
+tags = ["上海卫星互联网研究院有限公司", "已公开"]
+
+[[items]]
+title = "空间目标的轨道预测方法、预测装置、电子设备及介质"
+subtitle = "CN122154374A"
+date = "2026.06.05"
+content = "[贺琦, 李舒辰, **耿运鑫**, 刘言, 孙军帅](https://cprs.patentstar.com.cn/Search/Detail?ANE=8GAA9CHA9GFE9EFE5CCA8DEA9BHGFHHA9HBA9GBF9DAD9AID)"
+tags = ["上海卫星互联网研究院有限公司", "已公开"]
+
+[[items]]
+title = "一种卫星异常检测方法、设备、介质及程序产品"
+subtitle = "CN122132396A"
+date = "2026.06.02"
+content = "[贺琦, 李舒辰, **耿运鑫**, 刘言, 孙军帅](https://cprs.patentstar.com.cn/Search/Detail?ANE=9IGH7DEA9GED9GEF8AHA8CFA9CGG9EHHDIGA9BHH9BIF9FBG)"
+tags = ["上海卫星互联网研究院有限公司", "已公开"]
+
+[[items]]
+title = "检测模型训练方法、检测方法及设备"
+subtitle = "CN122112742A"
+date = "2026.05.29"
+content = "[**耿运鑫**, 李舒辰, 贺琦, 刘言, 孙军帅](https://cprs.patentstar.com.cn/Search/Detail?ANE=7FAA9GHE9FGEAHGA9HGF3CAACIEA9GAABFEA5AAADGFACIFA)"
+tags = ["上海卫星互联网研究院有限公司", "已公开"]
+
+# 授权
+[[items]]
+title = "测量结果的确定方法及装置、发送方法及装置"
+subtitle = "CN120812677B"
+date = "2025.11.28"
+content = "[范晓坤, 李舒辰, 孙军帅, 刘钰, 贺琦, **耿运鑫**](https://cprs.patentstar.com.cn/Search/Detail?ANE=8AGA5CDA7EBADIHA3ACA9HGFCIIA3ADA9CEB8BEA9DGH9DBE)"
+tags = ["上海卫星互联网研究院有限公司", "已授权"]
+
+[[items]]
+title = "模型数据的处理方法和装置、存储介质及电子设备"
+subtitle = "CN120785779B"
+date = "2026.05.12"
+content = "[范晓坤, 李舒辰, 刘言, 孙军帅, 贺琦, **耿运鑫**](https://cprs.patentstar.com.cn/Search/Detail?ANE=9FEC4BDA6CCA9EFF9IHH5BDA7FAA7CAA9HEG9CHC9GBFGIIA)"
+tags = ["中国星网网络创新研究院有限公司", "已授权"]
+
+[[items]]
+title = "一种基于数据分词的车流量数据处理方法"
+subtitle = "CN114970519B"
+date = "2025.03.25"
+content = "[侯璐, **耿运鑫**, 韩灵怡, 杨昊俊](https://cprs.patentstar.com.cn/Search/Detail?ANE=9CFA9HHF9DGC9GHG9EHD7CFA9GED9AFC9DAB9IBH9AHH9FDG)"
+tags = ["北京邮电大学", "已授权"]
