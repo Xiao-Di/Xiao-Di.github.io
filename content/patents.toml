@@ -5,6 +5,27 @@ description = "Invention patents I have granted and host."
 # 受理
 [[items]]
 title = "Data Processing Method and Apparatus, Storage Medium and Electronic Device"
+subtitle = "CN2026115996268"
+date = "2026.10.14"
+content = "Qi He, Shuchen Li, **Yunxin Geng**, Bowen Li"
+tags = ["Shanghai Satellite Network Research Institute Company Ltd.", "Accepted"]"
+
+[[items]]
+title = "Query Request Response Method, Apparatus, Storage Medium and Electronic Device"
+subtitle = "CN2026115995918"
+date = "2026.10.14"
+content = "Qi He, Minghao Lu, Bowen Li, **Yunxin Geng**, Zijian Guo, Xin Xiang, Yichen Yang"
+tags = ["Shanghai Satellite Network Research Institute Company Ltd.", "Accepted"]"
+
+[[items]]
+title = "Data Processing Method and Apparatus, Storage Medium and Electronic Device"
+subtitle = "CN202611313204X"
+date = "2026.08.26"
+content = "**Yunxin Geng**, Bowen Li, Shengfeng Wang, Minghao Lu, Yun Zhao, Zijian Guo, Luhao Ma"
+tags = ["Shanghai Satellite Network Research Institute Company Ltd.", "Accepted"]
+
+[[items]]
+title = "Data Processing Method and Apparatus, Storage Medium and Electronic Device"
 subtitle = "CN202611313204X"
 date = "2026.08.26"
 content = "**Yunxin Geng**, Bowen Li, Shengfeng Wang, Minghao Lu, Yun Zhao, Zijian Guo, Luhao Ma"
