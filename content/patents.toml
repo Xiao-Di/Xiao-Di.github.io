@@ -4,6 +4,13 @@ description = "Invention patents I have granted and host."
 
 # 受理
 [[items]]
+title = "Target Positioning Method, Apparatus, Network Device and Computer-readable Storage Medium"
+subtitle = "CN2026118259738"
+date = "2026.11.18"
+content = "Zhiyong Feng, Zhiqing Wei, Lin Wang, Qixun Zhang, Dingyou Ma, Haotian Liu, **Yunxin Geng**"
+tags = ["Beijing University of Posts and TeleCommunications", "Accepted"]"
+
+[[items]]
 title = "Data Processing Method and Apparatus, Storage Medium and Electronic Device"
 subtitle = "CN2026115996268"
 date = "2026.10.14"
